@@ -1,4 +1,5 @@
-## Hi there 👋
+# Pantera is awesome dantae get over it :)
+## Anyways im learning how to code in jave script and html trying to make funny websites
 
 <!--
 **WavyBacon4652/WavyBacon4652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
